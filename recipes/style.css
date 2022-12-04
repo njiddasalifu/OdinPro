@@ -1,0 +1,16 @@
+body{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h3{
+    color: blue;
+}
+.directions{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+img{
+    height: auto;
+    width: 50%;
+}
