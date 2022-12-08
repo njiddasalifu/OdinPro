@@ -1,0 +1,29 @@
+
+*{
+    height: 0;
+    margin: 0;
+    font-size: 40px;
+    /* margin is use to give a spacebetween 2 elements 
+    in the page.
+    padding is use to give a space btn the contents and the border
+    border is use to give a clear border btn elements 
+    */
+}
+.box-one{
+    background-color: rgb(7, 93, 122);
+    border: 30px solid lightcoral;
+    height: 100px;
+    width: 100px;
+    margin: 60px;
+    padding: 10px;
+
+}
+.box-two{
+    background-color: rgb(7, 93, 122);
+    border: 30px solid lightcoral;
+    height: 100px;
+    width: 100px;
+    margin: 60px;
+    padding: 10px;
+
+}
